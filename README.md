@@ -1,5 +1,5 @@
 # RESTREPO
 
-## Editing thr file
+## Editing the file
 
 Holaa
